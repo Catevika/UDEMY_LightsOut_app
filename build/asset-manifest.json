@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UDEMY_LightsOut_app/static/css/main.9ec2d78d.chunk.css",
+    "main.js": "/UDEMY_LightsOut_app/static/js/main.d9a81311.chunk.js",
+    "main.js.map": "/UDEMY_LightsOut_app/static/js/main.d9a81311.chunk.js.map",
+    "runtime~main.js": "/UDEMY_LightsOut_app/static/js/runtime~main.c35b8331.js",
+    "runtime~main.js.map": "/UDEMY_LightsOut_app/static/js/runtime~main.c35b8331.js.map",
+    "static/js/2.e00c9271.chunk.js": "/UDEMY_LightsOut_app/static/js/2.e00c9271.chunk.js",
+    "static/js/2.e00c9271.chunk.js.map": "/UDEMY_LightsOut_app/static/js/2.e00c9271.chunk.js.map",
+    "index.html": "/UDEMY_LightsOut_app/index.html",
+    "precache-manifest.e4ee54027a843f2a3f4c84ee91167d5b.js": "/UDEMY_LightsOut_app/precache-manifest.e4ee54027a843f2a3f4c84ee91167d5b.js",
+    "service-worker.js": "/UDEMY_LightsOut_app/service-worker.js",
+    "static/css/main.9ec2d78d.chunk.css.map": "/UDEMY_LightsOut_app/static/css/main.9ec2d78d.chunk.css.map"
+  }
+}
