@@ -4,7 +4,7 @@
 	"private": true,
 	"homepage": "https://Catevika.github.io/UDEMY_LightsOut_app",
 	"dependencies": {
-		"gh-pages": "^2.0.1",
+		"gh-pages": "^5.0.0",
 		"mixin-deep": "^2.0.1",
 		"react": "^16.6.0",
 		"react-dom": "^16.6.0",
